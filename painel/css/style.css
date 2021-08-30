@@ -522,6 +522,7 @@ table tr.tBody td{
 table .btn {
     min-width: 1rem;
     height: 30px;
+    margin: 0 1%;
 }
 div.btnPags {
 	height: 15vh;
