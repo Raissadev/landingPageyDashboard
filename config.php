@@ -25,7 +25,7 @@
 	define('DATABASE','projeto_01');
 
 	//Constantes para o painel de controle
-	define('NOME_EMPRESA','Danki Code');
+	define('NOME_EMPRESA','Raissadev');
 
 	//Funções do painel
 	function pegaCargo($indice){
