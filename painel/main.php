@@ -39,7 +39,7 @@
 				<div class="wrapperMenu w90">
 					<h2>Principal</h2>
 					<ul>
-						<li><a <?php selecionadoMenu('index'); ?> href="<?php echo INCLUDE_PATH_PAINEL ?>home"><i class="myGit" data-feather="command"></i> Painel de Controle</a></li>
+						<li><a <?php selecionadoMenu('index'); ?> href="<?php echo INCLUDE_PATH_PAINEL ?>"><i class="myGit" data-feather="command"></i> Painel de Controle</a></li>
 					</ul>
 					<h2>Cadastrar</h2>
 					<ul>
