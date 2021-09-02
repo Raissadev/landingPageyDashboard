@@ -272,16 +272,25 @@ aside{
 	-webkit-transition: left 0.2s ease, width 0.2s ease;
     transition: left 1s ease, width 1s ease;
 }
-aside::-webkit-scrollbar {
-    width: 6px;
-    height: 6px;
-    transition: .3s background;
+aside .wrap {
+    max-height: 100%;
+    min-height: 100%;
+    position: fixed;
+    width: 20%;
+    overflow-y: scroll;
 }
-aside::-webkit-scrollbar-thumb, body.dark-mode *:hover::-webkit-scrollbar-thumb {
-    background: #272740;
+::-webkit-scrollbar {
+	background: transparent;
+	width: 5px;
+	border:1px solid transparent;
 }
-aside::-webkit-scrollbar-thumb {
-    background: #ced4da;
+::-webkit-scrollbar-thumb {
+	border-radius: 0px;
+	background: transparent;
+}
+aside:hover .wrap::-webkit-scrollbar-thumb, body::-webkit-scrollbar-thumb {
+	border-radius: 0px;
+	background: #ced4da;
 }
 
 aside .userPainel{
@@ -593,6 +602,14 @@ div.btnPags .btnSelected{
 		left: 0;
 		width: 80%;
 		display: none;
+	}
+	aside .wrap {
+		width: 100%;
+		position: relative;
+	}
+	aside:hover::-webkit-scrollbar-thumb {
+		border-radius: 0px;
+		background: #ced4da;
 	}
 	header .row .headerInput{
 		display: none;
