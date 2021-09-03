@@ -8,12 +8,12 @@
       function drawRegionsMap() {
         var data = google.visualization.arrayToDataTable([
           ['Country', 'Popularity'],
-          ['Germany', 200],
-          ['United States', 300],
-          ['Brazil', 400],
-          ['Canada', 500],
-          ['France', 600],
-          ['RU', 700]
+          ['Germany', <?php echo count($usuariosOnline); ?>],
+          ['United States', <?php echo count($usuariosOnline); ?>],
+          ['Brazil', <?php echo count($usuariosOnline); ?>],
+          ['Canada', <?php echo count($usuariosOnline); ?>],
+          ['France', <?php echo count($usuariosOnline); ?>],
+          ['RU', <?php echo count($usuariosOnline); ?>]
         ]);
 
         var options = {
@@ -36,7 +36,7 @@
 
         var data = google.visualization.arrayToDataTable([
           ['Effort', 'Amount given'],
-          ['My all',     100],
+          ['My all',     <?php echo $pegarVisitasTotais; ?>],
         ]);
 
         var options = {
