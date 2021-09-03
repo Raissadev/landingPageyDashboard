@@ -182,7 +182,7 @@ textarea{
 	height: 150px;
 	resize: none;
 }
-.btn, button, input[type="submit"]{
+.btn, button, input[type="submit"], input[type="file"]::-webkit-file-upload-button{
 	background: var(--myPurpleTwo);
     border-color: var(--myPurpleTwo);
     color: var(--titlePrimary);
@@ -198,6 +198,12 @@ textarea{
     align-items: center;
     justify-content: center;
 	padding: 0 1rem;
+}
+input[type="file"]{
+	padding: 0;
+	height: auto;
+	background: transparent;
+	border:0px;
 }
 .btn svg, button svg, input[type="submit"] svg{
 	width: 17px;
