@@ -442,14 +442,6 @@ section.metricsContent .card p span svg{
 section.metricsContent .card .col{
 	justify-content: center;
 }
-#myChart{
-	width: 100% !important;
-}
-#chartRadial{
-	width:400px  !important;
-	height: 400px;
-	margin: 0 auto;
-}
 section.diceContent .cardBox{
 	min-height: 70vh;
 }
@@ -625,10 +617,6 @@ div.btnPags .btnSelected{
 	}
 	header .row .userIcons a {
 		margin: 0 1.8%;
-	}
-	#chartRadial{
-		width:320px  !important;
-		height: 320px;
 	}
 	.counterIcon {
 		width: 3rem;
