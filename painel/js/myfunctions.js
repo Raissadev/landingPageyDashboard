@@ -1,7 +1,7 @@
 feather.replace();
 
 const mainContent = document.getElementById('mainContent');
-const toogleMenu = document.querySelectorAll('.btnIcon');
+const toogleMenu = document.querySelectorAll('.btnIconClick');
 const asidePainel    = document.querySelector('.asidePainel');
 
 for (var i = 0; i < toogleMenu.length; i++){
