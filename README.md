@@ -1,7 +1,6 @@
 # landingPageyDashboard
 <h2>Sobre o Projeto</h2>
 <p>Landing page desenvolvida com intuito de apresentar, possui um dashboard no qual insere alguns items no site...</p>
-![mygif](https://user-images.githubusercontent.com/82960240/138618237-c5c010bd-a7c3-4f63-9871-326890e420ed.gif)
 
 <br />
 <h3>Front-end:</h3>
@@ -20,6 +19,7 @@
   <li>jQuery</li>
 </ul>
 
+![mygif](https://user-images.githubusercontent.com/82960240/138618237-c5c010bd-a7c3-4f63-9871-326890e420ed.gif)
 
 
 <h3>Autor</h3>
