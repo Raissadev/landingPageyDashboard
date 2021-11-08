@@ -1,4 +1,4 @@
-# landingPageyDashboard
+# Landing Page y Dashboard
 <h3>Sobre o Projeto</h3>
 <p>Landing page desenvolvida com intuito de apresentar, possui um dashboard no qual insere alguns items no site...</p>
 
