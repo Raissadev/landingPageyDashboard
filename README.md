@@ -1,20 +1,22 @@
 # landingPageyDashboard
-<h2>Sobre o Projeto</h2>
+<h3>Sobre o Projeto</h3>
 <p>Landing page desenvolvida com intuito de apresentar, possui um dashboard no qual insere alguns items no site...</p>
-<h3>Front-end:</h3>
+
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JS</li>
-</ul>
-<h3>Back-end:</h3>
-<ul>
-  <li>PHP</li>
-  <li>Database: MySql</li>
-</ul>
-<h3>Stacks:</h3>
-<ul>
-  <li>jQuery</li>
+  <li>Lenguages:</li>
+  <i>PHP, JavaScript e SQL</i>
+  
+  <li>Database:</li>
+  <i>MySql</i>
+  
+  <li>Library:</li>
+  <i>jQuery</i>
+  
+  <li>Style:</li>
+  <i>Cascading Style Sheets</i>
+  
+  <li>Markup Language:</li>
+  <i>HTML</i>
 </ul>
 
 ![mygif](https://user-images.githubusercontent.com/82960240/138618237-c5c010bd-a7c3-4f63-9871-326890e420ed.gif)
