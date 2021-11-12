@@ -19,7 +19,8 @@
   <i>HTML</i>
 </ul>
 
-![mygif](https://user-images.githubusercontent.com/82960240/138618237-c5c010bd-a7c3-4f63-9871-326890e420ed.gif)
+![gifLandingPage](https://user-images.githubusercontent.com/82960240/141552166-a3610ca5-7fa8-4552-93d7-385e9d9e3956.gif)
+
 
 <h3>Autor</h3>
 <h4>Raissa Arcaro Daros</h4>
